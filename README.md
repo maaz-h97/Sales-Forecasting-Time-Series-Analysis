@@ -28,10 +28,10 @@ We built predictive models using Prophet and visualized forecasts through an int
 
 ## Key Insights
 
-- 📌 The model predicted the next 12 months of sales with clear seasonality patterns.
-- 📌 Sales tend to peak around certain months, indicating strong seasonal trends.
-- 📌 Forecasting accuracy improved after aggregating daily data into monthly buckets.
-- 📌 Visual dashboards allow business users to explore expected growth trends interactively.
+- The model predicted the next 12 months of sales with clear seasonality patterns.
+- Sales tend to peak around certain months, indicating strong seasonal trends.
+- Forecasting accuracy improved after aggregating daily data into monthly buckets.
+- Visual dashboards allow business users to explore expected growth trends interactively.
 
 ---
 
